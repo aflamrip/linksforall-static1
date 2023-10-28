@@ -1,0 +1,19 @@
+{
+  "fullname": "Your name here",
+  "website": "https://yourdomain.com.br",
+  "role": "Javascript Enthusiast",
+  "bio": "Some bio here",
+  "image": "https://avatars3.githubusercontent.com/u/3206543?s=400&u=10401f6bec19f1675f77a45ee9b40bfb1a293367&v=4",
+
+  "socialLinks": {
+    "twitter": "https://twitter.com/yourtwitter",
+    "linkedin": "https://linkedin.com/in/yourlinkedin",
+    "github": "https://github.com/yourgithub",
+    "medium": "https://medium.com/@yourmedium",
+    "facebook": "",
+    "youtube": "",
+    "instagram": "",
+    "dribbble": "https://dribbble.com/itbruno",
+    "tiktok": "https://tiktok.com"
+  }
+}
