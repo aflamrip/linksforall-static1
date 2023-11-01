@@ -3,17 +3,17 @@
   "website": "https://yourdomain.com.br",
   "role": "Javascript Enthusiast",
   "bio": "Some bio here",
-  "image": "https://avatars3.githubusercontent.com/u/3206543?s=400&u=10401f6bec19f1675f77a45ee9b40bfb1a293367&v=4",
+  "image": "https://raw.githubusercontent.com/aflamrip/test3/7a7dfe2d222f77dd22d30da27375def7130a8b78/public/images/logo.svg",
 
   "socialLinks": {
     "twitter": "https://twitter.com/yourtwitter",
-    "linkedin": "https://linkedin.com/in/yourlinkedin",
-    "github": "https://github.com/yourgithub",
+    "linkedin": "",
+    "github": "",
     "medium": "https://medium.com/@yourmedium",
     "facebook": "https://facebook.com/yourfacebook",
-    "youtube": "https://youtube.com/youryoutube",
+    "youtube": "",
     "instagram": "https://instagram.com/yourinstagram",
-    "dribbble": "https://dribbble.com/itbruno",
+    "dribbble": "",
     "tiktok": "https://tiktok.com"
   }
 }
