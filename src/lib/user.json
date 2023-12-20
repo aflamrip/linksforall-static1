@@ -3,7 +3,7 @@
   "website": "https://yourdomain.com.br",
   "role": "Javascript Enthusiast",
   "bio": "Some bio here",
-  "image": "https://raw.githubusercontent.com/aflamrip/test3/7a7dfe2d222f77dd22d30da27375def7130a8b78/public/images/logo.svg",
+  "image": "public/images/logo.svg",
 
   "socialLinks": {
     "twitter": "https://twitter.com/yourtwitter",
