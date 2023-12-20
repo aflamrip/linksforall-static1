@@ -1,24 +1,24 @@
 [
   {
-    "label": "Todos",
+    "label": "أHome",
     "id": "all"
   },
   {
-    "label": "Projetos",
-    "id": "projects"
+    "label": "Categories",
+    "id": "Categories"
   },
   {
-    "label": "Artigos",
-    "id": "articles"
-  },
-
-  {
-    "label": "Videos",
-    "id": "videos"
+    "label": "Movies",
+    "id": "Movies"
   },
 
   {
-    "label": "New category",
-    "id": "new-category"
+    "label": "Series",
+    "id": "Series"
+  },
+
+  {
+    "label": "Friends",
+    "id": "Friends"
   }
 ]
