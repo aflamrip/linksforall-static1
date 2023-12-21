@@ -6,27 +6,27 @@
   },
 
   {
-    "label": "Repositório com o código do projeto Bio.links",
-    "categoryId": "projects",
-    "url": "https://tinu.be/linksforall"
+    "label": "Movies",
+    "categoryId": "Categories",
+    "url": "https://home.voduv.com/Movies/"
   },
 
   {
-    "label": "New link in a new category",
-    "categoryId": "new-category",
-    "url": "https://youtube.com"
+    "label": "Series",
+    "categoryId": "Categories",
+    "url": "https://home.voduv.com/Series/"
   },
 
   {
-    "label": "Figma com UI do projeto Bio.links dev",
-    "categoryId": "projects",
-    "url": "https://tinu.be/uilinks"
+    "label": "Oppenheimer",
+    "categoryId": "Movies",
+    "url": "https://home.voduv.com/Movies/Oppenheimer/"
   },
 
   {
-    "label": "Notion com dicas de performance web/mobile",
-    "categoryId": "articles",
-    "url": "https://tinu.be/cssperf"
+    "label": "NCIS: Sydney",
+    "categoryId": "Series",
+    "url": "https://home.voduv.com/Series/NCIS-Sydney/"
   },
 
   {
