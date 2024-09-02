@@ -19,6 +19,11 @@
 
   {
     "label": "Top",
-    "id": "tim,tis"
+    "id": "tim"
+  },
+  
+  {
+    "label": "Top",
+    "id": "tis"
   }
 ]
