@@ -21,6 +21,8 @@ export default function Home() {
         <meta property="og:title" content={user.fullname} />
         <meta property="og:description" content={user.bio} />
         <meta property="og:type" content="website" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0547898817705259"
+     crossorigin="anonymous"></script>
       </Head>
       <Dracula data={DATA} />
       {GA4ID && <GA4 ga4Id={GA4ID} />}
