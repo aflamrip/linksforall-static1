@@ -6,8 +6,6 @@ import { SocialLinks } from './SocialLinks';
 function Header({ fullname, image, role, socialLinks }: UserProps) {
   return (
     <header>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0547898817705259"
-     crossorigin="anonymous"></script>
       <div className="container max-w-lg text-center py-16 relative">
         <div className="group relative inline-flex">
           {image && (
