@@ -31,13 +31,13 @@
 
   {
     "label": "Top IMDB Movies",
-    "categoryId": "tim",
+    "categoryId": "Top",
     "url": "https://home.voduv.com/movie/the-shawshank-redemption/"
   },
 
     {
     "label": "Top IMDB Seies",
-    "categoryId": "tis",
+    "categoryId": "Top",
     "url": "https://home.voduv.com/tv-show/breaking-bad"
   }
 ]
