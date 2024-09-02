@@ -32,8 +32,6 @@ function Header({ fullname, image, role, socialLinks }: UserProps) {
 
         {socialLinks && <SocialLinks socialLinks={socialLinks} />}
       </div>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0547898817705259"
-     crossorigin="anonymous"></script>
     </header>
   );
 }
