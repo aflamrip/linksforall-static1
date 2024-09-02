@@ -12,6 +12,8 @@ function Dracula({ data }: AlphaProps) {
   const { user, categories, links } = data;
   return (
     <main
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0547898817705259"
+     crossorigin="anonymous"></script>
       className={`${themeFont.className} min-h-screen bg-dracula-background antialiased`}
     >
       <Header
