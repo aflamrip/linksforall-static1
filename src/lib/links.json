@@ -8,30 +8,36 @@
   {
     "label": "Movies",
     "categoryId": "Categories",
-    "url": "https://home.voduv.com/Movies/"
+    "url": "https://home.voduv.com/movies/"
   },
 
   {
     "label": "Series",
     "categoryId": "Categories",
-    "url": "https://home.voduv.com/Series/"
+    "url": "https://home.voduv.com/tv-shows/"
   },
 
   {
-    "label": "Oppenheimer",
+    "label": "The Killer",
     "categoryId": "Movies",
-    "url": "https://home.voduv.com/Movies/Oppenheimer/"
+    "url": "https://home.voduv.com/movie/the-killer/"
   },
 
   {
-    "label": "NCIS: Sydney",
+    "label": "The Lord of the Rings: The Rings of Power",
     "categoryId": "Series",
-    "url": "https://home.voduv.com/Series/NCIS-Sydney/"
+    "url": "https://home.voduv.com/tv-show/the-lord-of-the-rings-the-rings-of-power/"
   },
 
   {
-    "label": "Shwof.com",
-    "categoryId": "Friends",
-    "url": "https://shwof.com/"
+    "label": "Top IMDB Movies",
+    "categoryId": "tim",
+    "url": "https://home.voduv.com/movie/the-shawshank-redemption/"
+  },
+
+    {
+    "label": "TTop IMDB Seies",
+    "categoryId": "tis",
+    "url": "https://home.voduv.com/tv-show/breaking-bad"
   }
 ]
