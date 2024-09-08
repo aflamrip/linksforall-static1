@@ -39,7 +39,7 @@ function SocialLinks({ socialLinks }: SocialLinksComponentProps) {
           href={socialLinks.twitter}
           aria-label="twitter"
         >
-          <Twitter size={32} />
+          <TwitterLogo size={32} />
         </a>
       )}
 
