@@ -7,7 +7,7 @@ import {
   InstagramLogo,
   LinkedinLogo,
   MediumLogo,
-  XLogo,
+  X,
   YoutubeLogo,
   TiktokLogo
 } from 'phosphor-react';
