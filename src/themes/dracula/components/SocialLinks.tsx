@@ -31,7 +31,7 @@ function SocialLinks({ socialLinks }: SocialLinksComponentProps) {
         </a>
       )}
 
-      {!!socialLinks.x && (
+      {!!socialLinks.twitter && (
         <a
           className="transition-all group-hover:opacity-60 hover:!opacity-100 hover:-translate-y-[0.12rem]"
           target="_blank"
