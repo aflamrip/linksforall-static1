@@ -10,7 +10,7 @@ import {
   XLogo,
   YoutubeLogo,
   TiktokLogo
-} from 'phosphor-icons/react';
+} from 'phosphor-react-native';
 
 interface SocialLinksComponentProps {
   socialLinks: SocialLinksProps;
