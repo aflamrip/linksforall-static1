@@ -7,7 +7,7 @@ import {
   InstagramLogo,
   LinkedinLogo,
   MediumLogo,
-  x-logo,
+  xlogo,
   YoutubeLogo,
   TiktokLogo
 } from 'phosphor-react';
@@ -31,13 +31,13 @@ function SocialLinks({ socialLinks }: SocialLinksComponentProps) {
         </a>
       )}
 
-      {!!socialLinks.x-logo && (
+      {!!socialLinks.xlogo && (
         <a
           className="transition-all group-hover:opacity-60 hover:!opacity-100 hover:-translate-y-[0.12rem]"
           target="_blank"
           rel="noreferrer"
-          href={socialLinks.x-logo}
-          aria-label="x-logo"
+          href={socialLinks.xlogo}
+          aria-label="xlogo"
         >
           <XLogo size={32} />
         </a>
