@@ -7,10 +7,9 @@ import {
   InstagramLogo,
   LinkedinLogo,
   MediumLogo,
-  TwitterLogo,
-  YoutubeLogo,
-  TiktokLogo
-} from 'phosphor-react';
+  XLogo,
+  YoutubeLogo
+} from '@phosphor-icons/react';
 
 interface SocialLinksComponentProps {
   socialLinks: SocialLinksProps;
@@ -31,15 +30,15 @@ function SocialLinks({ socialLinks }: SocialLinksComponentProps) {
         </a>
       )}
 
-      {!!socialLinks.twitter && (
+      {!!socialLinks.x && (
         <a
           className="transition-all group-hover:opacity-60 hover:!opacity-100 hover:-translate-y-[0.12rem]"
           target="_blank"
           rel="noreferrer"
-          href={socialLinks.twitter}
-          aria-label="twitter"
+          href={socialLinks.x}
+          aria-label="x"
         >
-          <TwitterLogo size={32} />
+          <XLogo size={32} />
         </a>
       )}
 
@@ -103,15 +102,15 @@ function SocialLinks({ socialLinks }: SocialLinksComponentProps) {
         </a>
       )}
 
-      {!!socialLinks.tiktok && (
+      {!!socialLinks.dribbble && (
         <a
           className="transition-all group-hover:opacity-60 hover:!opacity-100 hover:-translate-y-[0.12rem]"
           target="_blank"
           rel="noreferrer"
-          href={socialLinks.tiktok}
-          aria-label="tiktok"
+          href={socialLinks.dribbble}
+          aria-label="dribbble"
         >
-          <TiktokLogo size={32} />
+          <DribbbleLogo size={32} />
         </a>
       )}
     </div>
