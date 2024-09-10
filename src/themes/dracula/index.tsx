@@ -1,14 +1,14 @@
 import DataProps from '@interfaces/data';
 import { Header } from './components/Header';
-import { Montserrat } from '@next/font/google';
+import { Montserrat } from 'next/font/google';
 import { ListingWrapper } from './components/ListingWrapper';
 
 const themeFont = Montserrat({ subsets: ['latin'] });
-interface AlphaProps {
+interface DraculaProps {
   data: DataProps;
 }
 
-function Dracula({ data }: AlphaProps) {
+function Dracula({ data }: DraculaProps) {
   const { user, categories, links } = data;
   return (
     <main
