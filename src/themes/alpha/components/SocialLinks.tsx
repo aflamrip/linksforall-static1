@@ -1,3 +1,4 @@
+import DataProps from '@interfaces/data';
 import SocialLinksProps from '@interfaces/social-links';
 import {
   DribbbleLogo,
